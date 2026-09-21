@@ -24,4 +24,3 @@ require (
 	golang.org/x/net v0.56.0 // indirect
 )
 
-replace github.com/Khaliiloo/reporter => .
