@@ -1,8 +1,8 @@
 package renderers
 
 import (
-	"dev.azure.com/CubicLYDev/Rehlaa/_git/reporter.git/errors"
-	"dev.azure.com/CubicLYDev/Rehlaa/_git/reporter.git/models"
+	"github.com/Khaliiloo/reporter/errors"
+	"github.com/Khaliiloo/reporter/models"
 )
 
 // checkConsistent is a cheap, panic-free structural guard renderers run before

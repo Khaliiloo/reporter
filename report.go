@@ -21,9 +21,9 @@ package reports
 import (
 	"io"
 
-	"dev.azure.com/CubicLYDev/Rehlaa/_git/reporter.git/errors"
-	"dev.azure.com/CubicLYDev/Rehlaa/_git/reporter.git/interfaces"
-	"dev.azure.com/CubicLYDev/Rehlaa/_git/reporter.git/models"
+	"github.com/Khaliiloo/reporter/errors"
+	"github.com/Khaliiloo/reporter/interfaces"
+	"github.com/Khaliiloo/reporter/models"
 )
 
 // Renderer is re-exported so consumers can use either reports.Renderer or

@@ -5,9 +5,8 @@ import (
 	"math"
 	"strings"
 
-	"dev.azure.com/CubicLYDev/Rehlaa/_git/reporter.git/errors"
-	"dev.azure.com/CubicLYDev/Rehlaa/_git/reporter.git/models"
-	"github.com/xuri/excelize/v2"
+	"github.com/Khaliiloo/reporter/errors"
+	"github.com/Khaliiloo/reporter/models"
 )
 
 // Default font sizes/colors applied when the schema omits them.

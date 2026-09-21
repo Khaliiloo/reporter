@@ -9,7 +9,7 @@ import (
 	"strings"
 	"testing"
 
-	"dev.azure.com/CubicLYDev/Rehlaa/_git/reporter.git/models"
+	"github.com/Khaliiloo/reporter/models"
 )
 
 // TestWordNoTableInParagraph is a regression test for the DOCX corruption

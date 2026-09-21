@@ -4,10 +4,10 @@ import (
 	"sort"
 	"sync"
 
-	"dev.azure.com/CubicLYDev/Rehlaa/_git/reporter.git/errors"
-	"dev.azure.com/CubicLYDev/Rehlaa/_git/reporter.git/interfaces"
-	"dev.azure.com/CubicLYDev/Rehlaa/_git/reporter.git/models"
-	"dev.azure.com/CubicLYDev/Rehlaa/_git/reporter.git/renderers"
+	"github.com/Khaliiloo/reporter/errors"
+	"github.com/Khaliiloo/reporter/interfaces"
+	"github.com/Khaliiloo/reporter/models"
+	"github.com/Khaliiloo/reporter/renderers"
 )
 
 // RendererFactory constructs a renderer for a format with resolved options.

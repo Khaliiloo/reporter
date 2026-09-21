@@ -11,9 +11,8 @@ import (
 	"strings"
 	"testing"
 
-	"dev.azure.com/CubicLYDev/Rehlaa/_git/reporter.git/errors"
-	"dev.azure.com/CubicLYDev/Rehlaa/_git/reporter.git/models"
-	"github.com/xuri/excelize/v2"
+	"github.com/Khaliiloo/reporter/errors"
+	"github.com/Khaliiloo/reporter/models"
 )
 
 func excelReport() *models.Report {

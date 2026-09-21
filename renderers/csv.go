@@ -5,8 +5,8 @@ import (
 	"encoding/csv"
 	"io"
 
-	"dev.azure.com/CubicLYDev/Rehlaa/_git/reporter.git/errors"
-	"dev.azure.com/CubicLYDev/Rehlaa/_git/reporter.git/models"
+	"github.com/Khaliiloo/reporter/errors"
+	"github.com/Khaliiloo/reporter/models"
 )
 
 // CSVOptions carries settings specific to CSV output.

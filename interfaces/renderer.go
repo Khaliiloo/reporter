@@ -6,7 +6,7 @@ package interfaces
 import (
 	"io"
 
-	"dev.azure.com/CubicLYDev/Rehlaa/_git/reporter.git/models"
+	"github.com/Khaliiloo/reporter/models"
 )
 
 // Renderer converts an in-memory report model into bytes in a specific output

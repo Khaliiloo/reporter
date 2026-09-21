@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"net/http/httptest"
 
-	reports "dev.azure.com/CubicLYDev/Rehlaa/_git/reporter.git"
+	reports "github.com/Khaliiloo/reporter"
 )
 
 // Example_httpHandler demonstrates embedding the library in a plain net/http

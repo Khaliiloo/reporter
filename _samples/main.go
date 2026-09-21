@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	reports "dev.azure.com/CubicLYDev/Rehlaa/_git/reporter.git"
+	reports "github.com/Khaliiloo/reporter"
 )
 
 const jsonData = `{

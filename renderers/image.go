@@ -8,7 +8,7 @@ import (
 	_ "image/png"
 	"strings"
 
-	"dev.azure.com/CubicLYDev/Rehlaa/_git/reporter.git/models"
+	"github.com/Khaliiloo/reporter/models"
 	"golang.org/x/text/unicode/bidi"
 )
 

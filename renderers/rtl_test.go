@@ -8,7 +8,7 @@ import (
 	"strings"
 	"testing"
 
-	"dev.azure.com/CubicLYDev/Rehlaa/_git/reporter.git/models"
+	"github.com/Khaliiloo/reporter/models"
 )
 
 func rtlReport() *models.Report {

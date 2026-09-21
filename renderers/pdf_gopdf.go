@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"dev.azure.com/CubicLYDev/Rehlaa/_git/reporter.git/models"
+	"github.com/Khaliiloo/reporter/models"
 	gp "github.com/raceresult/gopdf"
 	"github.com/raceresult/gopdf/pdf"
 )

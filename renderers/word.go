@@ -9,8 +9,8 @@ import (
 	"strconv"
 	"strings"
 
-	"dev.azure.com/CubicLYDev/Rehlaa/_git/reporter.git/errors"
-	"dev.azure.com/CubicLYDev/Rehlaa/_git/reporter.git/models"
+	"github.com/Khaliiloo/reporter/errors"
+	"github.com/Khaliiloo/reporter/models"
 )
 
 const (

@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"testing"
 
-	"dev.azure.com/CubicLYDev/Rehlaa/_git/reporter.git/models"
+	"github.com/Khaliiloo/reporter/models"
 )
 
 // benchReport builds a report with cols columns and rows rows.
