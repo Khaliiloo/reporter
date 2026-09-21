@@ -1,4 +1,4 @@
-module dev.azure.com/CubicLYDev/Rehlaa/_git/reporter.git
+module github.com/Khaliiloo/reporter
 
 go 1.25.0
 
