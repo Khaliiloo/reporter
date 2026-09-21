@@ -7,6 +7,7 @@ import (
 
 	"github.com/Khaliiloo/reporter/errors"
 	"github.com/Khaliiloo/reporter/models"
+	"github.com/xuri/excelize/v2"
 )
 
 // Default font sizes/colors applied when the schema omits them.
